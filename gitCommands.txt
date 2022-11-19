@@ -1,1 +1,3 @@
 GIT commands
+
+# 1. to store credential in cache so that we need not to enter username and password every time.
